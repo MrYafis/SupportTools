@@ -10,3 +10,5 @@
 0. Нажмите на кнопку "Download ZIP".
 0. Распакуйте содержимое архива в удобное для вас место.
 0. Запустите файл SupportTools.ahk
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HuHEfv4PIrY/0.jpg)](http://www.youtube.com/watch?v=HuHEfv4PIrY)
