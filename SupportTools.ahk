@@ -39,7 +39,7 @@ return
 			SendInput {F6}%line%
 		return
 		}
-		if (A_Index == 731) {
+		if (A_Index == 724) {
 			break
 		}
 	}
